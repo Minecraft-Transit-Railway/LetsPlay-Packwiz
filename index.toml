@@ -1,0 +1,109 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/resourcepackupdater.json"
+hash = "63024c4575fe365fd1ca31c78384c7f2f7adf30b71a0948e90da14b53db6fc40"
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "46b444dc88aac495a314699961072c72b16661130aff501d176a2b8c12c49b72"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "17311c8148c846b880718d5368efdc7eb31e54ee4c0ab0f6e3fe466ea8af3a3d"
+metafile = true
+
+[[files]]
+file = "mods/freecam.pw.toml"
+hash = "efcc25b88be11ae20eb1deefd9cdf49e26a08f4d18cc9b0bbb6b172b404e5ff3"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "dfbdb89a9b842c190339d6d60a6a2e812e3d3bdcd986610e3b740ec478e4dcb0"
+metafile = true
+
+[[files]]
+file = "mods/jcm.pw.toml"
+hash = "e2ce890a206d6ad6807c2bc85559159eef55426566e982c4e05c14d3ae7033f7"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "54a337d13450b35dfc931e7a5f3ed9fca1a1992ec51d3b1e4ea1cb5f7cd2d09c"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-transit-railway.pw.toml"
+hash = "a8c9353a4a5b4d08823f39e13dd10f04e1c884e5fa5aedae511a26d111a76d8a"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "be0fd8b9cd9f8a94428ea8ac5ec84f4f7bab23697236b7a2e54d8537834e0315"
+metafile = true
+
+[[files]]
+file = "mods/mtr-nte.pw.toml"
+hash = "eb8b612c3312b7b026170132b71ff6f3c031373151b30a17ab17cb21dea650c7"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "17651adb28b085101dcded29ef037e6622849a98b21d1c1872185e7b241a32f6"
+metafile = true
+
+[[files]]
+file = "mods/resourcepackupdater-1.19.2-2.1.2.jar"
+hash = "6105470ec6bb683a108282a369beedde84b3ee23a0e0c3d97c6b925b2b8551ca"
+
+[[files]]
+file = "mods/slideshow-fabric.pw.toml"
+hash = "8fbc9c1c6bfe9eaed2e16603895d2a4cea4fede794fe8701b448addba73a326a"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "8da0d4c285e7e57aee3f08ab4e268d04518704ace4060744f042aef3a7f6bc50"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
+metafile = true
+
+[[files]]
+file = "mods/station-decoration.pw.toml"
+hash = "19c234dccae3896624b605a204e738f4117913f963210c1da27d696fe457e2d1"
+metafile = true
+
+[[files]]
+file = "mods/the-tube.pw.toml"
+hash = "0db432c02731d82a1a7ec69f7b3bee6ef2e861268e23d8d22ee405b55ed3bd7f"
+metafile = true
+
+[[files]]
+file = "mods/worldeditcui-fabric.pw.toml"
+hash = "9e86144c0543f6bcfa735d71451e93d3b101c94bd7956079c080e9e2a4f90f60"
+metafile = true
