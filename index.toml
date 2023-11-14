@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/pages.yml"
+hash = "818802f032d48567fbecc4eaf11ad56d154b8af1400cfc2c381d0479d9300b0b"
+
+[[files]]
 file = "config/resourcepackupdater.json"
 hash = "63024c4575fe365fd1ca31c78384c7f2f7adf30b71a0948e90da14b53db6fc40"
 
@@ -70,8 +74,8 @@ hash = "17651adb28b085101dcded29ef037e6622849a98b21d1c1872185e7b241a32f6"
 metafile = true
 
 [[files]]
-file = "mods/resourcepackupdater-1.19.2-2.1.2.jar"
-hash = "6105470ec6bb683a108282a369beedde84b3ee23a0e0c3d97c6b925b2b8551ca"
+file = "mods/resourcepackupdater-1.19.2-2.2.0.jar"
+hash = "1d77e11312ddecc9afd5e580ff60175cad5e55c70298600431fc012000266e33"
 
 [[files]]
 file = "mods/slideshow-fabric.pw.toml"
@@ -100,7 +104,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-tube.pw.toml"
-hash = "0db432c02731d82a1a7ec69f7b3bee6ef2e861268e23d8d22ee405b55ed3bd7f"
+hash = "281818d09d8d8db243cb05bc637c26f98fd2c93d22f98967340033cb8a982210"
 metafile = true
 
 [[files]]
