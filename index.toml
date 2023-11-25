@@ -5,6 +5,10 @@ file = "config/resourcepackupdater.json"
 hash = "63024c4575fe365fd1ca31c78384c7f2f7adf30b71a0948e90da14b53db6fc40"
 
 [[files]]
+file = "mods/MTR-LU-Addon-fabric-1.19.2-3.2.0-2.0.7-hotfix2.jar"
+hash = "54e88edce5994ef047e5799ea393a192e5f3ed851f9174acaf57da68e70f23b8"
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "46b444dc88aac495a314699961072c72b16661130aff501d176a2b8c12c49b72"
 metafile = true
@@ -96,11 +100,6 @@ metafile = true
 [[files]]
 file = "mods/station-decoration.pw.toml"
 hash = "19c234dccae3896624b605a204e738f4117913f963210c1da27d696fe457e2d1"
-metafile = true
-
-[[files]]
-file = "mods/the-tube.pw.toml"
-hash = "281818d09d8d8db243cb05bc637c26f98fd2c93d22f98967340033cb8a982210"
 metafile = true
 
 [[files]]
