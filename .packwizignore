@@ -5,3 +5,5 @@
 
 # Exclude README
 /README.md
+
+/*.zip
