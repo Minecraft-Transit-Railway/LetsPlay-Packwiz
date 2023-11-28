@@ -78,6 +78,11 @@ file = "mods/resourcepackupdater-1.19.2-2.2.0.jar"
 hash = "1d77e11312ddecc9afd5e580ff60175cad5e55c70298600431fc012000266e33"
 
 [[files]]
+file = "mods/russian-metro-addon.pw.toml"
+hash = "6eb04e29e0e7054979b9c48405bed438f953a5e17e64cfd0bf8753ef8c962f65"
+metafile = true
+
+[[files]]
 file = "mods/slideshow-fabric.pw.toml"
 hash = "8fbc9c1c6bfe9eaed2e16603895d2a4cea4fede794fe8701b448addba73a326a"
 metafile = true
