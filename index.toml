@@ -9,8 +9,18 @@ file = "mods/MTR-LU-Addon-fabric-1.19.2-3.2.0-2.0.7-hotfix2.jar"
 hash = "54e88edce5994ef047e5799ea393a192e5f3ed851f9174acaf57da68e70f23b8"
 
 [[files]]
-file = "mods/carpet.pw.toml"
-hash = "46b444dc88aac495a314699961072c72b16661130aff501d176a2b8c12c49b72"
+file = "mods/chat-heads.pw.toml"
+hash = "97b701033132e2157135e2ffbdb6fc763e9c4f4190812a1186786751b486bb96"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "984741a3b4d5612df37b81d7349dd1f130257eaf7d94d95b72ce43fff9411885"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "2e30808f998481e8e17b995fcd74394e0a7aaace16be55a0292f3f80157df578"
 metafile = true
 
 [[files]]
@@ -19,8 +29,18 @@ hash = "17311c8148c846b880718d5368efdc7eb31e54ee4c0ab0f6e3fe466ea8af3a3d"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "651e82c2b53b326df742ea36e806f3003e5ad68d1177a09fbe94d9dc7e780471"
+metafile = true
+
+[[files]]
 file = "mods/freecam.pw.toml"
 hash = "efcc25b88be11ae20eb1deefd9cdf49e26a08f4d18cc9b0bbb6b172b404e5ff3"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "3fd84629dfb4a639c07c49ac3f41d3dfe66bc763f056c8b2d275d0d2742c1115"
 metafile = true
 
 [[files]]
@@ -36,6 +56,11 @@ metafile = true
 [[files]]
 file = "mods/jcm.pw.toml"
 hash = "e2ce890a206d6ad6807c2bc85559159eef55426566e982c4e05c14d3ae7033f7"
+metafile = true
+
+[[files]]
+file = "mods/language-reload.pw.toml"
+hash = "cdbe71d715fb02845b58804bd573103527b0a8ab3c779cef4524ffa414092780"
 metafile = true
 
 [[files]]
@@ -110,4 +135,14 @@ metafile = true
 [[files]]
 file = "mods/worldeditcui-fabric.pw.toml"
 hash = "9e86144c0543f6bcfa735d71451e93d3b101c94bd7956079c080e9e2a4f90f60"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "80bab11e8d1438ec93695050f087dc2f9d0ae1d2523a17b8236af7029f14119e"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "df9929f0a90f0c54a870ed182c0543ce579d07b84089d2fec6131917c53b5bab"
 metafile = true
