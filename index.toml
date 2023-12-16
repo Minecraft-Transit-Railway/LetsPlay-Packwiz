@@ -100,7 +100,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcepackupdater-1.19.2-2.2.0.jar"
-hash = "1d77e11312ddecc9afd5e580ff60175cad5e55c70298600431fc012000266e33"
+hash = "e682e518d780cdc11995cb524a05b0166942d78dd9e953bfc01db57620f66a07"
 
 [[files]]
 file = "mods/russian-metro-addon.pw.toml"
