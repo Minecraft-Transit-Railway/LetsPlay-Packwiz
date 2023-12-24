@@ -10,7 +10,7 @@ hash = "54e88edce5994ef047e5799ea393a192e5f3ed851f9174acaf57da68e70f23b8"
 
 [[files]]
 file = "mods/carpet.pw.toml"
-hash = "46b444dc88aac495a314699961072c72b16661130aff501d176a2b8c12c49b72"
+hash = "dcecfd23240c2458a0ee7d9e518205c013c3c179c8bf49940b08c3bbfb505027"
 metafile = true
 
 [[files]]
@@ -20,7 +20,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "984741a3b4d5612df37b81d7349dd1f130257eaf7d94d95b72ce43fff9411885"
+hash = "5072078e20591c8ad360791b6af82708d0c6355e8d75a1a817d8f714616c0721"
 metafile = true
 
 [[files]]
@@ -40,7 +40,7 @@ metafile = true
 
 [[files]]
 file = "mods/freecam.pw.toml"
-hash = "efcc25b88be11ae20eb1deefd9cdf49e26a08f4d18cc9b0bbb6b172b404e5ff3"
+hash = "d63cbf3670e98f32ebb8487b4b4b460efe30c687c7eea58e11574cb507701202"
 metafile = true
 
 [[files]]
@@ -139,7 +139,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldeditcui-fabric.pw.toml"
-hash = "9e86144c0543f6bcfa735d71451e93d3b101c94bd7956079c080e9e2a4f90f60"
+hash = "3267fc4de9982aa7d957bed7bbe8a624011a5ae52f6b9d616cf9b4efbc89fb79"
 metafile = true
 
 [[files]]
@@ -149,5 +149,5 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "df9929f0a90f0c54a870ed182c0543ce579d07b84089d2fec6131917c53b5bab"
+hash = "6b4f962a3f2d68bccf402d55ed7e6e988011efdfe260be2cb359af2ac4425390"
 metafile = true
