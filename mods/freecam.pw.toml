@@ -2,11 +2,6 @@ name = "Freecam (Modrinth Edition)"
 filename = "freecam-modrinth-1.1.6+1.19.jar"
 side = "client"
 
-[option]
-optional = true
-default = false
-description = "Enables you to see buildings from a top-down perspective."
-
 [download]
 url = "https://cdn.modrinth.com/data/XeEZ3fK2/versions/yjLgFQ4M/freecam-modrinth-1.1.6%2B1.19.jar"
 hash-format = "sha1"

@@ -9,11 +9,6 @@ file = "mods/MTR-LU-Addon-fabric-1.19.2-3.2.0-2.0.7-hotfix2.jar"
 hash = "54e88edce5994ef047e5799ea393a192e5f3ed851f9174acaf57da68e70f23b8"
 
 [[files]]
-file = "mods/carpet.pw.toml"
-hash = "46b444dc88aac495a314699961072c72b16661130aff501d176a2b8c12c49b72"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "97b701033132e2157135e2ffbdb6fc763e9c4f4190812a1186786751b486bb96"
 metafile = true
