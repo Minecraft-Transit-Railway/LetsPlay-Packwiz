@@ -2,6 +2,11 @@ name = "Continuity"
 filename = "continuity-2.0.2+1.19.jar"
 side = "client"
 
+[option]
+optional = true
+default = false
+description = "Connected glass pane textures. After installing it's not on by default, you need to enable its resource packs."
+
 [download]
 url = "https://cdn.modrinth.com/data/1IjD5062/versions/Ql3Ho9eR/continuity-2.0.2%2B1.19.jar"
 hash-format = "sha1"
