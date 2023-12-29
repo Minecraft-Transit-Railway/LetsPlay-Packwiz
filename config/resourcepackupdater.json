@@ -1,13 +1,4 @@
 {
   "version": 2,
-  "localPackName": "SyncedPack",
-  "activeSource": {
-    "name": "MTR Let\u0027s Play (SG, Primary)",
-    "baseUrl": "https://mc.zbx1425.cn/jlp-srp",
-    "hasDirHash": true,
-    "hasArchive": false
-  },
-  "disableBuiltinSources": false,
-  "sources": [],
-  "pauseWhenSuccess": false
+  "remoteConfigUrl": "https://mc.zbx1425.cn/jlp-srp/client_config.json"
 }

@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/custom-hud/profile1.txt"
+hash = "10d7691ad85825af13bb637bb96ea7235e4e4886dbc48b490d6d34c7b9476265"
+
+[[files]]
 file = "config/resourcepackupdater.json"
-hash = "63024c4575fe365fd1ca31c78384c7f2f7adf30b71a0948e90da14b53db6fc40"
+hash = "24552d1febc131d3b3264da989b1b8b3d2b60cda2023440fe9d084517e8ad06f"
 
 [[files]]
 file = "mods/MTR-LU-Addon-fabric-1.19.2-3.2.0-2.0.7-hotfix2.jar"
@@ -26,6 +30,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "2e30808f998481e8e17b995fcd74394e0a7aaace16be55a0292f3f80157df578"
+metafile = true
+
+[[files]]
+file = "mods/customhud.pw.toml"
+hash = "e9df207723ef5b171150d1c7a30d8da54a43e6a0dc1461f564396d36fc632c14"
 metafile = true
 
 [[files]]

@@ -1,0 +1,9 @@
+&n{real_time:HH:mm:ss}&r   FPS: {{fps >= 50, "&a", fps >= 30, "&e", "&c"}}{fps}&r   Ping: {{ping >= 500, "&a", ping >= 200, "&e", "&c"}}{ping}&7ms
+
+Pos: &c{bx} &a{by} &b{bz} &r  >&e{facing_short -uc}/{facing_towards_xz -uc}{facing_towards_pn_sign}
+Biome: &7{biome}
+=if: target_block=
+
+Looking:&r &c{tbx} &a{tby} &b{tbz}
+&7{target_block_id}
+=endif=
