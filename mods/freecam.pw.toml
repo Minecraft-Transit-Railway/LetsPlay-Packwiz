@@ -5,7 +5,10 @@ side = "client"
 [option]
 optional = true
 default = false
-description = "Enables you to see buildings from a top-down perspective."
+description = """
+Free Camera. Enables you to see buildings from a top-down perspective.
+自由相機視角。讓你可以在空中俯瞰建築。
+"""
 
 [download]
 url = "https://cdn.modrinth.com/data/XeEZ3fK2/versions/yjLgFQ4M/freecam-modrinth-1.1.6%2B1.19.jar"

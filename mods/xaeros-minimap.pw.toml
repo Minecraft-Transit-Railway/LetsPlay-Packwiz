@@ -1,0 +1,21 @@
+name = "Xaero's Minimap"
+filename = "Xaeros_Minimap_23.9.3_Fabric_1.19.1.jar"
+side = "both"
+
+[option]
+optional = true
+default = false
+description = """
+A minimap. It also enables setting waypoints on the world map.
+小地圖。同時要安裝它才可以在大地圖上設置路徑點。
+"""
+
+[download]
+url = "https://cdn.modrinth.com/data/1bokaNcj/versions/e5VWn5iQ/Xaeros_Minimap_23.9.3_Fabric_1.19.1.jar"
+hash-format = "sha1"
+hash = "90fd2590ffa3a1f255a5d21e7ce55ebf63a76fd7"
+
+[update]
+[update.modrinth]
+mod-id = "1bokaNcj"
+version = "e5VWn5iQ"

@@ -5,7 +5,10 @@ side = "client"
 [option]
 optional = true
 default = false
-description = "Push a button to zoom in the camera, with customizable zoom levels. Useful for looking at PIDS."
+description = """
+Enables pushing a button to zoom in the camera, with customizable zoom levels. Useful for looking at PIDS.
+按快捷鍵時放大的功能，可調整放大倍數。用來看顯示屏比較方便。
+"""
 
 [download]
 url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/f017okM4/Zoomify-2.9.0.jar"

@@ -5,7 +5,10 @@ side = "client"
 [option]
 optional = true
 default = false
-description = "Connected glass pane textures. After installing it's not on by default, you need to enable its resource packs."
+description = """
+Connected glass pane textures. (Tip: To actually use it you need to enable its resource packs in options.)
+讓玻璃板的貼圖連接起來。 (提示: 安裝後需要在設定中啓用對應的資源包才可使用)
+"""
 
 [download]
 url = "https://cdn.modrinth.com/data/1IjD5062/versions/Ql3Ho9eR/continuity-2.0.2%2B1.19.jar"

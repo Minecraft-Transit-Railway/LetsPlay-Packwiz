@@ -10,7 +10,7 @@ hash = "54e88edce5994ef047e5799ea393a192e5f3ed851f9174acaf57da68e70f23b8"
 
 [[files]]
 file = "mods/carpet.pw.toml"
-hash = "46b444dc88aac495a314699961072c72b16661130aff501d176a2b8c12c49b72"
+hash = "c4370993f7932be5e9eb2189a67f69330e724322ea6f39aac963d310af97444e"
 metafile = true
 
 [[files]]
@@ -20,12 +20,17 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "984741a3b4d5612df37b81d7349dd1f130257eaf7d94d95b72ce43fff9411885"
+hash = "9527ab0fb84b5f9752976dff117fe326e3c1e59d777e3265d13262a739f66ece"
 metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "2e30808f998481e8e17b995fcd74394e0a7aaace16be55a0292f3f80157df578"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "c1a584b3dfb0301d8a28453b17c4f9358fd97fc6b060565263b98aa1a07f8945"
 metafile = true
 
 [[files]]
@@ -40,7 +45,7 @@ metafile = true
 
 [[files]]
 file = "mods/freecam.pw.toml"
-hash = "efcc25b88be11ae20eb1deefd9cdf49e26a08f4d18cc9b0bbb6b172b404e5ff3"
+hash = "65fcf0e48c463878946ea040cc42bc91deb40e313b1bdfca7d50a12917fa9317"
 metafile = true
 
 [[files]]
@@ -139,7 +144,17 @@ metafile = true
 
 [[files]]
 file = "mods/worldeditcui-fabric.pw.toml"
-hash = "9e86144c0543f6bcfa735d71451e93d3b101c94bd7956079c080e9e2a4f90f60"
+hash = "61f75318d7335953e82b4504a91bd002822e863ee309e5a848ed6865409716de"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "c52e3246c8198904fe9e0359bc805e1d22e33b3f43a3e608704b4b0806ac81d1"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "83295ad64ab68569897249239800143fd402bece296992d9f0795fc94aad734a"
 metafile = true
 
 [[files]]
@@ -149,5 +164,5 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "df9929f0a90f0c54a870ed182c0543ce579d07b84089d2fec6131917c53b5bab"
+hash = "14bbcbe63a7b5e7c03d707cb0145c231f07e1fae4bd8c5233db2a610998428e5"
 metafile = true

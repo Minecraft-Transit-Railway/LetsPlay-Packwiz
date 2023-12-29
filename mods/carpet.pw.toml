@@ -5,7 +5,11 @@ side = "both"
 [option]
 optional = true
 default = false
-description = "Allows you to no-clip when flying in creative mode."
+description = """
+[[ For Builders 建築者用 ]]
+Allows you to no-clip when flying in creative mode.
+在創造模式下飛行時可以穿墻。
+"""
 
 [download]
 url = "https://cdn.modrinth.com/data/TQTTVgYE/versions/SaOHo2Ac/fabric-carpet-1.19.2-1.4.84%2Bv221018.jar"
