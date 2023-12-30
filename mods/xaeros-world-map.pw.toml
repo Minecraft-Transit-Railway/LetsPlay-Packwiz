@@ -6,8 +6,8 @@ side = "both"
 optional = true
 default = false
 description = """
-A full-screen map of the world.
-可以顯示服務器世界全貌的大地圖。
+A full-screen map of the world. (Note: Don't use it while riding trains as it'll cause bugs.)
+可以顯示服務器世界全貌的大地圖。 (注意：因爲會導致 bug，請勿在乘車期間使用)
 """
 
 [download]
