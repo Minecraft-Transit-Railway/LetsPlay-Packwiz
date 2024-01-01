@@ -19,7 +19,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "97b701033132e2157135e2ffbdb6fc763e9c4f4190812a1186786751b486bb96"
+hash = "534660f4d3f5c9fadf02cda4f85d0a60002cf997076dd8e35031b361b941ed11"
 metafile = true
 
 [[files]]
@@ -49,7 +49,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "651e82c2b53b326df742ea36e806f3003e5ad68d1177a09fbe94d9dc7e780471"
+hash = "1f5d80bccee13ecf7042644d74b32ddb45e47a2bc28b6da8aabe58620ac7fe87"
 metafile = true
 
 [[files]]
@@ -69,7 +69,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "dfbdb89a9b842c190339d6d60a6a2e812e3d3bdcd986610e3b740ec478e4dcb0"
+hash = "14e50c7cd16b4650d3a491f5f31bc00af6be0c290734db9552852ab1de9bc3bb"
 metafile = true
 
 [[files]]
@@ -104,7 +104,7 @@ metafile = true
 
 [[files]]
 file = "mods/mtr-nte.pw.toml"
-hash = "eb8b612c3312b7b026170132b71ff6f3c031373151b30a17ab17cb21dea650c7"
+hash = "e5595465b83c816ef0214ef0a4144f889ba5eba41f717190b6913b75cb4790b8"
 metafile = true
 
 [[files]]
