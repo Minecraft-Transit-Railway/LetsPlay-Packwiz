@@ -1,21 +1,17 @@
 name = "Xaero's World Map"
-filename = "XaerosWorldMap_1.37.2_Fabric_1.19.1.jar"
+filename = "XaerosWorldMap_1.38.4_Fabric_1.19.1.jar"
 side = "both"
 
-[option]
-optional = true
-default = false
-description = """
-A full-screen map of the world. (Note: Don't use it while riding trains as it'll cause bugs.)
-可以顯示服務器世界全貌的大地圖。 (注意：因爲會導致 bug，請勿在乘車期間使用)
-"""
-
 [download]
-url = "https://cdn.modrinth.com/data/NcUtCpym/versions/NPmEADqc/XaerosWorldMap_1.37.2_Fabric_1.19.1.jar"
+url = "https://cdn.modrinth.com/data/NcUtCpym/versions/AFdUAvnz/XaerosWorldMap_1.38.4_Fabric_1.19.1.jar"
 hash-format = "sha1"
-hash = "89eeb6c89ac5e6034ff002c129785496130f6fed"
+hash = "b3c71985b4f5518fd0e57ad147f977c18c1df308"
 
 [update]
 [update.modrinth]
 mod-id = "NcUtCpym"
-version = "NPmEADqc"
+version = "AFdUAvnz"
+
+[option]
+optional = true
+description = "A full-screen map of the world. (Note: Don't use it while riding trains as it'll cause bugs.)\n可以顯示服務器世界全貌的大地圖。 (注意：因爲會導致 bug，請勿在乘車期間使用)\n"

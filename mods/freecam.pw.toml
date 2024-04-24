@@ -1,21 +1,17 @@
 name = "Freecam (Modrinth Edition)"
-filename = "freecam-modrinth-1.1.6+1.19.jar"
+filename = "freecam-fabric-modrinth-1.2.3+1.19.2.jar"
 side = "client"
 
-[option]
-optional = true
-default = false
-description = """
-Free Camera. Enables you to see buildings from a top-down perspective.
-自由相機視角。讓你可以在空中俯瞰建築。
-"""
-
 [download]
-url = "https://cdn.modrinth.com/data/XeEZ3fK2/versions/yjLgFQ4M/freecam-modrinth-1.1.6%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/XeEZ3fK2/versions/16hlI3dE/freecam-fabric-modrinth-1.2.3%2B1.19.2.jar"
 hash-format = "sha1"
-hash = "bf8a291a31541332abfe5dd0bc2e24eb89fde81c"
+hash = "b56c9faae20a016fa297705c4d704795a4e334f5"
 
 [update]
 [update.modrinth]
 mod-id = "XeEZ3fK2"
-version = "yjLgFQ4M"
+version = "16hlI3dE"
+
+[option]
+optional = true
+description = "Free Camera. Enables you to see buildings from a top-down perspective.\n自由相機視角。讓你可以在空中俯瞰建築。\n"

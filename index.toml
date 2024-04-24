@@ -9,13 +9,17 @@ file = "config/resourcepackupdater.json"
 hash = "24552d1febc131d3b3264da989b1b8b3d2b60cda2023440fe9d084517e8ad06f"
 
 [[files]]
+file = "mods/MTR-LU-Addon-fabric-1.19.2-2.1.1.jar"
+hash = "7be661f5a397e7b0433ef3623acde3a437a88ed24309813ff68d8b8e3bbcaa85"
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "c4370993f7932be5e9eb2189a67f69330e724322ea6f39aac963d310af97444e"
 metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "534660f4d3f5c9fadf02cda4f85d0a60002cf997076dd8e35031b361b941ed11"
+hash = "7d6840e1fd9bd47ed0f9e7015b2a59fe01d6e70ce59fb69a664b916c194182bc"
 metafile = true
 
 [[files]]
@@ -50,7 +54,7 @@ metafile = true
 
 [[files]]
 file = "mods/freecam.pw.toml"
-hash = "65fcf0e48c463878946ea040cc42bc91deb40e313b1bdfca7d50a12917fa9317"
+hash = "01d387e74048a56e3270f9018d57196bfb9f4476d386e7c2a22ac73f35f48de8"
 metafile = true
 
 [[files]]
@@ -100,7 +104,7 @@ metafile = true
 
 [[files]]
 file = "mods/mtr-nte.pw.toml"
-hash = "e5595465b83c816ef0214ef0a4144f889ba5eba41f717190b6913b75cb4790b8"
+hash = "2fca8b91ec35f8b5b32303af26f23cad9bfa795649be3e8006d855b894ff1262"
 metafile = true
 
 [[files]]
@@ -148,23 +152,18 @@ hash = "19c234dccae3896624b605a204e738f4117913f963210c1da27d696fe457e2d1"
 metafile = true
 
 [[files]]
-file = "mods/the-tube.pw.toml"
-hash = "d31425119575bb1f03300629fa55db8fbeea6229f3863bb704d4e3a341b7b756"
-metafile = true
-
-[[files]]
 file = "mods/worldeditcui-fabric.pw.toml"
 hash = "61f75318d7335953e82b4504a91bd002822e863ee309e5a848ed6865409716de"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "c52e3246c8198904fe9e0359bc805e1d22e33b3f43a3e608704b4b0806ac81d1"
+hash = "79ac2e5a475304427213caebcf0e2697ed48cdf95bbabfa8e7c61a8cb016e334"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "392b36e064b332ac1c8157a257afe00b3c72b829e5b9c33e06c8fc5b47ff35c9"
+hash = "47893390bb09b34be1c1f80036e90b65e65406f963bf24194ebed08245bb6dab"
 metafile = true
 
 [[files]]
