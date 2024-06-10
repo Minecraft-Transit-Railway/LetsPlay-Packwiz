@@ -1,21 +1,17 @@
 name = "Distant Horizons"
-filename = "DistantHorizons-2.0.1-a-1.19.2.jar"
+filename = "DistantHorizons-2.1.0-a-1.19.2.jar"
 side = "client"
 
-[option]
-optional = true
-default = false
-description = """
-Renders simplified terrain past Minecraft's default view distance - See farther with relatively low performance tradeoff. 
-在 Minecraft 的渲染距離之外額外地再顯示更多的簡化了的地形模型 - 可以以相對較小的性能代價看得更遠。
-"""
-
 [download]
-url = "https://cdn.modrinth.com/data/uCdwusMi/versions/aOWEQ1nc/DistantHorizons-2.0.1-a-1.19.2.jar"
+url = "https://cdn.modrinth.com/data/uCdwusMi/versions/XLWDF2NT/DistantHorizons-2.1.0-a-1.19.2.jar"
 hash-format = "sha1"
-hash = "deeb9ced871f9d16933bb1a7d7e90f60f76cb180"
+hash = "62b03523aa59d18ded1cbe352e90f675642c201d"
 
 [update]
 [update.modrinth]
 mod-id = "uCdwusMi"
-version = "aOWEQ1nc"
+version = "XLWDF2NT"
+
+[option]
+optional = true
+description = "Renders simplified terrain past Minecraft's default view distance - See farther with relatively low performance tradeoff. \n在 Minecraft 的渲染距離之外額外地再顯示更多的簡化了的地形模型 - 可以以相對較小的性能代價看得更遠。\n"

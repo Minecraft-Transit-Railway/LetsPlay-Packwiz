@@ -19,7 +19,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "7d6840e1fd9bd47ed0f9e7015b2a59fe01d6e70ce59fb69a664b916c194182bc"
+hash = "c419054516c521d0942ad8bbc716c4b819022634eafc25c4c97857ea919944b1"
 metafile = true
 
 [[files]]
@@ -39,7 +39,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "c1a584b3dfb0301d8a28453b17c4f9358fd97fc6b060565263b98aa1a07f8945"
+hash = "88bb750551eb78579a1f068ed18e1d8d5c040543237c0c1c3d76ec4e5042a997"
 metafile = true
 
 [[files]]
@@ -79,7 +79,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "cdbe71d715fb02845b58804bd573103527b0a8ab3c779cef4524ffa414092780"
+hash = "c8ad3f88354bebbbb86291901c6b3c32535d0e88e54b5574ee11eedddeb09356"
 metafile = true
 
 [[files]]
@@ -158,12 +158,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "79ac2e5a475304427213caebcf0e2697ed48cdf95bbabfa8e7c61a8cb016e334"
+hash = "8d9f7a879d69a18836da27afea0700f5e34aa39366d3bc80b60ca3942b92f9d0"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "47893390bb09b34be1c1f80036e90b65e65406f963bf24194ebed08245bb6dab"
+hash = "d5b1f3f1683ddc0b5597a7f277de8dc6099fdad1d6ec2610a4d78f5a857615a9"
 metafile = true
 
 [[files]]
