@@ -1,6 +1,7 @@
 name = "Distant Horizons"
 filename = "DistantHorizons-2.0.1-a-1.19.2.jar"
 side = "client"
+pin = true
 
 [option]
 optional = true
