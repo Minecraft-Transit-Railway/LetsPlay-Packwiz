@@ -39,7 +39,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "c1a584b3dfb0301d8a28453b17c4f9358fd97fc6b060565263b98aa1a07f8945"
+hash = "602610825e73d9b0fb1684911ef9cb8c8673b7d85d8636d5d50719f7d9ff9ff8"
 metafile = true
 
 [[files]]
@@ -79,7 +79,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "c8ad3f88354bebbbb86291901c6b3c32535d0e88e54b5574ee11eedddeb09356"
+hash = "be6e6c95b5437d5ef2d5a45792c32ccd820719b6cefe129fe72c6d3422289626"
 metafile = true
 
 [[files]]
