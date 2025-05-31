@@ -1,0 +1,2 @@
+darkMojangStudiosBackground:true
+skipMultiplayerWarning:true
