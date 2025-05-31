@@ -88,6 +88,11 @@ hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
 metafile = true
 
 [[files]]
+file = "mods/filters-api.pw.toml"
+hash = "4cf4992dceab63a7801477c66f7780e0d950568f9002a8536acc8d468e297c29"
+metafile = true
+
+[[files]]
 file = "mods/freecam.pw.toml"
 hash = "4eddbfb450a37b85a1ac710d3ecb51f4e527130bd453f8a16f067210b2767692"
 metafile = true
