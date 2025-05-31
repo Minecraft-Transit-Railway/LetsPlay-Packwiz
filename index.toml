@@ -29,6 +29,21 @@ file = "mods/Slideshow-fabric-1.20.4-1.0.3-Enhancement-1.jar"
 hash = "086af98b1ff2991579f5c3ec5eb02e98a9bea21314f178729829f70ae355a4fa"
 
 [[files]]
+file = "mods/banhammer.pw.toml"
+hash = "479090c70c1dfcbcd50516500cc99df70aede85546d511b8e03644ea6eb59656"
+metafile = true
+
+[[files]]
+file = "mods/blossomlib.pw.toml"
+hash = "f16a5795a6ba42c12667f25f67ad0d50f2e384a13e1378d68f2daf6464f65293"
+metafile = true
+
+[[files]]
+file = "mods/blossomwarps.pw.toml"
+hash = "d011dd222ff900c9bd1eea73a45665e350c6736027f7a16a5d78a65b96629614"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "079e7613c7440aa11de9a74860ce30f6f7c9e43ebfe0e297fb546c82771c51dd"
 metafile = true
@@ -44,8 +59,8 @@ hash = "45f0a2c35bc9aa87baf55ccf912a3c151167192468abba647858d421c24354d3"
 metafile = true
 
 [[files]]
-file = "mods/controlling.pw.toml"
-hash = "9e508304ee3c4241a1b73dc0cd885c203f36f186b4cdaaf8491e82f35444672b"
+file = "mods/craterlib.pw.toml"
+hash = "ac2807a1056b7dc795f2cd27dbc1ca8f14ad8c199dc78f0038e9f9245a35335b"
 metafile = true
 
 [[files]]
@@ -79,6 +94,11 @@ hash = "68985a3f3d2a6f829783c1bdbd27f195556992fc2c0a9738656acccf38d8c97a"
 metafile = true
 
 [[files]]
+file = "mods/incendium.pw.toml"
+hash = "0f83be0761e0014686517c20f2850242152dd7a26e87088d869028bc40a8a125"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "db812a9b3a4a8ea011eedc44bdc4df13a1f3cfb67130fe57d3990342566d03a8"
 metafile = true
@@ -104,6 +124,11 @@ hash = "57fc1c61ba53059ccb27647cf44d4b8671ccf284fcd869ec1b6c04a94eb8335e"
 metafile = true
 
 [[files]]
+file = "mods/minimotd.pw.toml"
+hash = "2d18c73b937ef60dab3340ec8fd93107f6ff3448b22cf064a96d98361a45eb53"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "07114208e332aa5fbc3e7144c2bac58ea74e50d4eaeac2b6c6cc5c41286bb335"
 metafile = true
@@ -111,6 +136,16 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "56365fcf55b2679a8f2ceefe5c3f949854d13945963a421d178145d0551b2fac"
+metafile = true
+
+[[files]]
+file = "mods/nullscape.pw.toml"
+hash = "e5e76b305f6e8fd611fb70695f42014c62e5f46b926d626eaf5ca0c78e394c5c"
+metafile = true
+
+[[files]]
+file = "mods/player-roles.pw.toml"
+hash = "9a5ab06a07afcc5db2f16f149564a5880af2b831a3aaea0ad070d65c1957e189"
 metafile = true
 
 [[files]]
@@ -123,6 +158,11 @@ file = "mods/resourcepackupdater-1.20.4-2.3.1.jar"
 hash = "e066f3c89f98f929210126dd2c1ea873ec3d44a7bbbb2ad6aecdd1f4940fdb7a"
 
 [[files]]
+file = "mods/sdlink.pw.toml"
+hash = "73f53293eb435e2184a8139a3af53afbf6c327f67d6be51c9cb28f1c89b6e478"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "cab2936a9939350acb6733ebe405e110743f5dfef4afec31ba0d34d759819ced"
 metafile = true
@@ -133,8 +173,28 @@ hash = "521c8241593053f877a89ce447c64392c3619e16c2001b3cac7d72cbde8392d0"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "c6a5c6afaf276bde5c35adb34e21155112b7defd08b83d95a81e435bc6530c42"
+metafile = true
+
+[[files]]
 file = "mods/starlight.pw.toml"
 hash = "75e3fb7d66b8e29bfc31b39e123c62c67fcb11d4614f2c6ac16df18a1b5e3eaf"
+metafile = true
+
+[[files]]
+file = "mods/takeaseat.pw.toml"
+hash = "82e0ea125db1f63edea6ef75bff309cb9daeea0329070e5b9d1a7c43656d6953"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "8a7bab663c386b0e31a5730d4c585baae859ea47ff716fa30fd8d0103ccba1a4"
 metafile = true
 
 [[files]]

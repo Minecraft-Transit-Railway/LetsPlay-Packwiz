@@ -1,0 +1,13 @@
+name = "BlossomWarps"
+filename = "blossom-warps-2.0.6+1.20.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/u9XjQayT/versions/O2IHka8e/blossom-warps-2.0.6%2B1.20.4.jar"
+hash-format = "sha512"
+hash = "459aec09084f4a828a4c52fe7bd3b2514702d5d6dbd400d7e8de520b83ae6693e96ab72800f69cfb2183093e243ccac78a696a67796b9254353fe0e8e4e9b191"
+
+[update]
+[update.modrinth]
+mod-id = "u9XjQayT"
+version = "O2IHka8e"

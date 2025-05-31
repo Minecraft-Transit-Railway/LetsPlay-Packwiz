@@ -1,0 +1,13 @@
+name = "Incendium"
+filename = "Incendium_1.20.x_v5.3.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZVzW5oNS/versions/uUqarp2H/Incendium_1.20.x_v5.3.5.jar"
+hash-format = "sha512"
+hash = "04944dcbf3aa7ee8ea8785549e00f74a417ca17aa5760593e39090733ab0a9e38ebce078e4f5af544030759a5459c371003601ff5a7feebbc09765f8c712bb25"
+
+[update]
+[update.modrinth]
+mod-id = "ZVzW5oNS"
+version = "uUqarp2H"
