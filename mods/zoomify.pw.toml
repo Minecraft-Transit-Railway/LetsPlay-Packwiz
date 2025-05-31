@@ -1,21 +1,17 @@
 name = "Zoomify"
-filename = "Zoomify-2.9.0.jar"
+filename = "Zoomify-2.14.2+1.20.4.jar"
 side = "client"
 
-[option]
-optional = true
-default = false
-description = """
-Enables pushing a button to zoom in the camera, with customizable zoom levels. Useful for looking at PIDS.
-按快捷鍵時放大的功能，可調整放大倍數。用來看顯示屏比較方便。
-"""
-
 [download]
-url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/f017okM4/Zoomify-2.9.0.jar"
-hash-format = "sha1"
-hash = "0ac09c47fba094d22e52fe6e53f990be63f650d8"
+url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/oK8ySMgf/Zoomify-2.14.2%2B1.20.4.jar"
+hash-format = "sha512"
+hash = "7369f0708e8f46b5c152cb5c5ffbb82a210bc18f84742beededa9366f7766f1cf5d44ca92bd4386d4b9eea9737431ac36378c432e96985f71ded4d72fd9797df"
 
 [update]
 [update.modrinth]
 mod-id = "w7ThoJFB"
-version = "f017okM4"
+version = "oK8ySMgf"
+
+[option]
+optional = true
+description = "Enables pushing a button to zoom in the camera, with customizable zoom levels. Useful for looking at PIDS.\n按快捷鍵時放大的功能，可調整放大倍數。用來看顯示屏比較方便。\n"

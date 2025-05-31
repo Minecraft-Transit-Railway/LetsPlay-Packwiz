@@ -1,22 +1,17 @@
 name = "WorldEdit CUI (Fabric)"
-filename = "WorldEditCUI-1.19.2+01.jar"
+filename = "WorldEditCUI-1.20.3+01.jar"
 side = "both"
-
-[option]
-optional = true
-default = false
-description = """
-[[ For Builders 建築者用 ]]
-Shows WorldEdit selection visually. (Tip: You can assign a hotkey for deselecting)
-圖形化顯示 WorldEdit 的選區。(提示: 可綁定一個取消選擇的熱鍵)
-"""
 
 [download]
 hash-format = "sha1"
-hash = "0cdf4bc2c8361e326ec8a4df79532fd09a2d0793"
+hash = "8771aab5954e90800677662e8378e0c5067d03a0"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4083243
+file-id = 4931021
 project-id = 402098
+
+[option]
+optional = true
+description = "[[ For Builders 建築者用 ]]\nShows WorldEdit selection visually. (Tip: You can assign a hotkey for deselecting)\n圖形化顯示 WorldEdit 的選區。(提示: 可綁定一個取消選擇的熱鍵)\n"

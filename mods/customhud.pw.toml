@@ -1,22 +1,17 @@
 name = "CustomHud"
-filename = "custom_hud-3.1.0+1.19.2.jar"
+filename = "custom_hud-4.0.0-beta.8+1.20.4.jar"
 side = "client"
 
-[option]
-optional = true
-default = false
-description = """
-[[ For Builders 建築者用 ]]
-Shows some info such as coordinates, facing (axis +/-) etc. Fully customizable. Can be useful when using WorldEdit.
-顯示一些例如坐標、朝向 (各軸 +/-) 的訊息。所有顯示訊息都可以自定義設置。在用 WorldEdit 做建築時比較方便。
-"""
-
 [download]
-url = "https://cdn.modrinth.com/data/6jis0UTI/versions/a67KVfJy/custom_hud-3.1.0%2B1.19.2.jar"
-hash-format = "sha1"
-hash = "308d9303d5ed257ffa8e74f28a5f1326b88a1994"
+url = "https://cdn.modrinth.com/data/6jis0UTI/versions/j4MSAAbZ/custom_hud-4.0.0-beta.8%2B1.20.4.jar"
+hash-format = "sha512"
+hash = "5aaab9e51c32504c0599fe08bf9a6845a5bea852c7ca023d78f232f7ac4f040a19fe35944d4ce7b582462fc41a0f1b7a79aa36dff5864322937d2780d41474d3"
 
 [update]
 [update.modrinth]
 mod-id = "6jis0UTI"
-version = "a67KVfJy"
+version = "j4MSAAbZ"
+
+[option]
+optional = true
+description = "[[ For Builders 建築者用 ]]\nShows some info such as coordinates, facing (axis +/-) etc. Fully customizable. Can be useful when using WorldEdit.\n顯示一些例如坐標、朝向 (各軸 +/-) 的訊息。所有顯示訊息都可以自定義設置。在用 WorldEdit 做建築時比較方便。\n"

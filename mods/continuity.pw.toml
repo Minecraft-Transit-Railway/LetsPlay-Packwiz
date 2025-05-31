@@ -1,21 +1,17 @@
 name = "Continuity"
-filename = "continuity-2.0.2+1.19.jar"
+filename = "continuity-3.0.0+1.20.2.jar"
 side = "client"
 
-[option]
-optional = true
-default = false
-description = """
-Connected glass pane textures. (Tip: To actually use it you need to enable its resource packs in options.)
-讓玻璃板的貼圖連接起來。 (提示: 安裝後需要在設定中啓用對應的資源包才可使用)
-"""
-
 [download]
-url = "https://cdn.modrinth.com/data/1IjD5062/versions/Ql3Ho9eR/continuity-2.0.2%2B1.19.jar"
-hash-format = "sha1"
-hash = "b7f4060c66eee13fa1385da89090560de30358e1"
+url = "https://cdn.modrinth.com/data/1IjD5062/versions/WMwDkIY8/continuity-3.0.0%2B1.20.2.jar"
+hash-format = "sha512"
+hash = "99e5e88a6bdbed440d6971a2718f2178efb7f7c1b1e2bf7166f2d7a7edf4f659683c7f9105a90b77b16fd4bc67e4b6330bf5a6e3e7befc5235eb9cd937d174c3"
 
 [update]
 [update.modrinth]
 mod-id = "1IjD5062"
-version = "Ql3Ho9eR"
+version = "WMwDkIY8"
+
+[option]
+optional = true
+description = "Connected glass pane textures. (Tip: To actually use it you need to enable its resource packs in options.)\n讓玻璃板的貼圖連接起來。 (提示: 安裝後需要在設定中啓用對應的資源包才可使用)\n"
