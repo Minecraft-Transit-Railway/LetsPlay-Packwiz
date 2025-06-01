@@ -25,8 +25,8 @@ file = "mods/MTR-fabric-4.0.0-prerelease.2+1.20.4.jar"
 hash = "4d702f492f3ee8cb078f11b51ebefbf964bfe41688bebf0b32048b5ebbcf8d94"
 
 [[files]]
-file = "mods/Slideshow-fabric-1.20.4-1.0.3-Enhancement-1.jar"
-hash = "086af98b1ff2991579f5c3ec5eb02e98a9bea21314f178729829f70ae355a4fa"
+file = "mods/Slideshow-1.0.3-no-texture-size-limit.jar"
+hash = "ce6c3288ea417fe1cde541ac1f1d6e555bc0f36532e7431207d2a2c451d7bac5"
 
 [[files]]
 file = "mods/Tianjin-Metro-1.0.0-beta-5+1.20.4.jar"
