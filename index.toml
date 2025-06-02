@@ -138,6 +138,11 @@ hash = "57fc1c61ba53059ccb27647cf44d4b8671ccf284fcd869ec1b6c04a94eb8335e"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "7c0f365995f3be31ca63741c3b236da945717bfaf5db8cfa9044a93aab3c5f9a"
+metafile = true
+
+[[files]]
 file = "mods/minimotd.pw.toml"
 hash = "2d18c73b937ef60dab3340ec8fd93107f6ff3448b22cf064a96d98361a45eb53"
 metafile = true
@@ -155,11 +160,6 @@ metafile = true
 [[files]]
 file = "mods/nullscape.pw.toml"
 hash = "e5e76b305f6e8fd611fb70695f42014c62e5f46b926d626eaf5ca0c78e394c5c"
-metafile = true
-
-[[files]]
-file = "mods/player-roles.pw.toml"
-hash = "9a5ab06a07afcc5db2f16f149564a5880af2b831a3aaea0ad070d65c1957e189"
 metafile = true
 
 [[files]]
