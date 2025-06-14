@@ -5,32 +5,16 @@ file = "config/custom-hud/profile1.txt"
 hash = "10d7691ad85825af13bb637bb96ea7235e4e4886dbc48b490d6d34c7b9476265"
 
 [[files]]
-file = "mods/JCM-2.0.0-prerelease.1+1.20.4.jar"
-hash = "54fec6331fe341f44628e67f330348e8eace7c52a320d9be549c93938a935b10"
-
-[[files]]
-file = "mods/MSD-fabric-1.20.4-4.0.0-prerelease.1-1.3.18.jar"
-hash = "35bbbac3eb82ac5296959a5c4d1f2ec3401515bee1d756cfe076b7fd8397529d"
-
-[[files]]
 file = "mods/MTR-London-Underground-Addon-fabric-2.2.3+1.20.4.jar"
 hash = "982dc17ae877f6185fc80287a107af453aeae36d69b70fa7c0895a1e1e7edc83"
 
 [[files]]
-file = "mods/MTR-Russian-Metro-Addon-fabric-4.0.0-2.0.0-beta-4+1.20.4.jar"
-hash = "626cc1f530b497cf332afd373198254c064e7edc67628ab481175219f1b5182d"
-
-[[files]]
 file = "mods/MTR-fabric-4.0.0-prerelease.2+1.20.4.jar"
-hash = "1ff590818d31c4bc4a2023fdd9a63a56b1e8665710b7203a13f8da688b318ae6"
+hash = "a85717baafc94108792d714fc5eedab3142db612ea63c53e442f25b6df8e9468"
 
 [[files]]
 file = "mods/Slideshow-1.0.3-no-texture-size-limit.jar"
 hash = "ce6c3288ea417fe1cde541ac1f1d6e555bc0f36532e7431207d2a2c451d7bac5"
-
-[[files]]
-file = "mods/Tianjin-Metro-1.0.0-beta-5+1.20.4.jar"
-hash = "2701172c6b3d31478a7ac9d53e205e3a5497eff2f48cdba08c3bc556bd2c149f"
 
 [[files]]
 file = "mods/banhammer.pw.toml"
@@ -94,7 +78,7 @@ metafile = true
 
 [[files]]
 file = "mods/filters-api.pw.toml"
-hash = "4cf4992dceab63a7801477c66f7780e0d950568f9002a8536acc8d468e297c29"
+hash = "b9480e9b507930881bda195d5ddebe107084261e5afcd1ab61cc107bef116c61"
 metafile = true
 
 [[files]]
@@ -123,6 +107,11 @@ hash = "96cafb1b451ce577f0a74045704c2f51c3ab34d63fbba81df669c21646d33bff"
 metafile = true
 
 [[files]]
+file = "mods/jcm.pw.toml"
+hash = "658775f9e9ef119259614054559327c4179b1aaeee9a8dc119bc788bd430adc3"
+metafile = true
+
+[[files]]
 file = "mods/language-reload.pw.toml"
 hash = "a97fa3877333bf3f9bd82733d909cc1d15e30539f2c68db5fba261450e4f412a"
 metafile = true
@@ -135,11 +124,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "57fc1c61ba53059ccb27647cf44d4b8671ccf284fcd869ec1b6c04a94eb8335e"
-metafile = true
-
-[[files]]
-file = "mods/luckperms.pw.toml"
-hash = "7c0f365995f3be31ca63741c3b236da945717bfaf5db8cfa9044a93aab3c5f9a"
 metafile = true
 
 [[files]]
@@ -172,6 +156,11 @@ file = "mods/resourcepackupdater-1.20.4-2.3.1.jar"
 hash = "e066f3c89f98f929210126dd2c1ea873ec3d44a7bbbb2ad6aecdd1f4940fdb7a"
 
 [[files]]
+file = "mods/russian-metro-addon.pw.toml"
+hash = "db421893363ec1fd33575b9a3fb86a93586eb3615adc0831529272b92a0357c7"
+metafile = true
+
+[[files]]
 file = "mods/sdlink.pw.toml"
 hash = "73f53293eb435e2184a8139a3af53afbf6c327f67d6be51c9cb28f1c89b6e478"
 metafile = true
@@ -197,6 +186,11 @@ hash = "75e3fb7d66b8e29bfc31b39e123c62c67fcb11d4614f2c6ac16df18a1b5e3eaf"
 metafile = true
 
 [[files]]
+file = "mods/station-decoration.pw.toml"
+hash = "516e78792a3f1036f41bfd00a62be30828b917a2efb7f68c188b4fe2c3b4f704"
+metafile = true
+
+[[files]]
 file = "mods/styledplayerlist.pw.toml"
 hash = "b8f43a50939082d1d771497405b8c69a9a4a7fd8b32fa8828bafb723e4eb5e21"
 metafile = true
@@ -209,6 +203,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
+metafile = true
+
+[[files]]
+file = "mods/tianjin-metro.pw.toml"
+hash = "e4704485465b16238ef380a3f3ce6947d88dd10487fef6a68a4afff016209f58"
 metafile = true
 
 [[files]]
