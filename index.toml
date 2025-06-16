@@ -5,12 +5,16 @@ file = "config/custom-hud/profile1.txt"
 hash = "10d7691ad85825af13bb637bb96ea7235e4e4886dbc48b490d6d34c7b9476265"
 
 [[files]]
+file = "mods/JCM-2.0.0-prerelease.2+1.20.4.jar"
+hash = "221172b3f1f492fa3e68170229aa00152e22b3ca7515d75bc482cf851dde38e8"
+
+[[files]]
 file = "mods/MTR-London-Underground-Addon-fabric-2.2.3+1.20.4.jar"
 hash = "982dc17ae877f6185fc80287a107af453aeae36d69b70fa7c0895a1e1e7edc83"
 
 [[files]]
 file = "mods/MTR-fabric-4.0.0-prerelease.2+1.20.4.jar"
-hash = "a51bee876b19f85136498118518f086a264719ee5dce1cf1ae4c08f3bf260dba"
+hash = "5a4401950e083e690c02bc700e73e6cacffe871d3c0555bfb92fba048da4ebf6"
 
 [[files]]
 file = "mods/Slideshow-1.0.3-no-texture-size-limit.jar"
@@ -104,11 +108,6 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "96cafb1b451ce577f0a74045704c2f51c3ab34d63fbba81df669c21646d33bff"
-metafile = true
-
-[[files]]
-file = "mods/jcm.pw.toml"
-hash = "658775f9e9ef119259614054559327c4179b1aaeee9a8dc119bc788bd430adc3"
 metafile = true
 
 [[files]]
