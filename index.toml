@@ -5,16 +5,16 @@ file = "config/custom-hud/profile1.txt"
 hash = "10d7691ad85825af13bb637bb96ea7235e4e4886dbc48b490d6d34c7b9476265"
 
 [[files]]
-file = "mods/JCM-2.0.0-prerelease.2+1.20.4.jar"
-hash = "221172b3f1f492fa3e68170229aa00152e22b3ca7515d75bc482cf851dde38e8"
+file = "mods/JCM-fabric-2.0.0+1.20.4.jar"
+hash = "055228d7500d6cea5e29b96c86dd690dbc38112193a13c932189837e6c7cdcd7"
 
 [[files]]
-file = "mods/MTR-London-Underground-Addon-fabric-2.2.3+1.20.4.jar"
-hash = "982dc17ae877f6185fc80287a107af453aeae36d69b70fa7c0895a1e1e7edc83"
+file = "mods/MTR-London-Underground-Addon-fabric-2.2.4+1.20.4.jar"
+hash = "67953ba8b1652849a679722e7d3f6b230fdaf6537437f8e3c6e3ab6941d11b64"
 
 [[files]]
-file = "mods/MTR-fabric-4.0.0-prerelease.3+1.20.4.jar"
-hash = "f6fae56b5f5ec4ba2d3e168522c462d75c27d353caa9c39d0f972602680f12c9"
+file = "mods/MTR-fabric-4.0.0+1.20.4.jar"
+hash = "a956eecd938cc67f9139688446881ac38b27e5d20671250880f9285596156c50"
 
 [[files]]
 file = "mods/Slideshow-1.0.3-no-texture-size-limit.jar"
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "68985a3f3d2a6f829783c1bdbd27f195556992fc2c0a9738656acccf38d8c97a"
+hash = "67099bc47fc849c2964b3b64b6f3af6fcbf941d9a4f1c03dda25f746b279015b"
 metafile = true
 
 [[files]]
@@ -156,12 +156,12 @@ hash = "e066f3c89f98f929210126dd2c1ea873ec3d44a7bbbb2ad6aecdd1f4940fdb7a"
 
 [[files]]
 file = "mods/russian-metro-addon.pw.toml"
-hash = "db421893363ec1fd33575b9a3fb86a93586eb3615adc0831529272b92a0357c7"
+hash = "73a9839e338fbfb4d8b63eb3a274daf8557fab45932085b371dec3ce8cbf5577"
 metafile = true
 
 [[files]]
 file = "mods/sdlink.pw.toml"
-hash = "73f53293eb435e2184a8139a3af53afbf6c327f67d6be51c9cb28f1c89b6e478"
+hash = "da3c275edf123317fcec057cb04a67a0ddb7cf90dc4b95f81a1f4334fe5cb007"
 metafile = true
 
 [[files]]
@@ -206,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/tianjin-metro.pw.toml"
-hash = "f2562d14449152309b322e7fe65f6dba16fb9aa8b4e8fffb238948547ce3e9dd"
+hash = "fdcb15b23617e3ca6c49566af1d64e1ed6307a40b46156b0eaf1fceea234e41b"
 metafile = true
 
 [[files]]
@@ -226,12 +226,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "6981236530f85e632758fbb41012838be461a2c7797ddd4a8ff6a267143e26fb"
+hash = "c658bdc0ecb6b7c47cdf44e1d06af9077d0abc75e62cb89303ac72c99408c08c"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "735ab4df87ad99f8058d34f6ab61071db274850b470c8673794b9f070a65605f"
+hash = "07f5f332fa5883f1d4caf9c5a88439590e24ae60f9b8b4cb9f25da3bcf5d2795"
 metafile = true
 
 [[files]]
