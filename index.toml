@@ -9,8 +9,8 @@ file = "mods/JCM-fabric-2.0.0+1.20.4.jar"
 hash = "055228d7500d6cea5e29b96c86dd690dbc38112193a13c932189837e6c7cdcd7"
 
 [[files]]
-file = "mods/MTR-London-Underground-Addon-fabric-2.2.4+1.20.4.jar"
-hash = "67953ba8b1652849a679722e7d3f6b230fdaf6537437f8e3c6e3ab6941d11b64"
+file = "mods/MTR-London-Underground-Addon-fabric-2.2.5+1.20.4.jar"
+hash = "7c20c1da94ff1ae198da860d8f4d415062fa4b20aa973608168191adeef9e91b"
 
 [[files]]
 file = "mods/MTR-fabric-4.0.1+1.20.4.jar"
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
+hash = "098d6976a738658ca490cc58e9fab19f06cd1a7b23199b6f1ee108d866333e22"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "67099bc47fc849c2964b3b64b6f3af6fcbf941d9a4f1c03dda25f746b279015b"
+hash = "060c6baaec85f47ba4bc2c0f4b8642b9933c27d3c166eb00ef86b4bbfd7f34a3"
 metafile = true
 
 [[files]]
@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/sdlink.pw.toml"
-hash = "da3c275edf123317fcec057cb04a67a0ddb7cf90dc4b95f81a1f4334fe5cb007"
+hash = "88abd793d09e46770557b81f13960492227317a08d856db9c099ce6c61d7f731"
 metafile = true
 
 [[files]]
@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/station-decoration.pw.toml"
-hash = "516e78792a3f1036f41bfd00a62be30828b917a2efb7f68c188b4fe2c3b4f704"
+hash = "239e69ddcb3a1fdd36cac6526df09b3114e0ad7700208a0f8a56b06dc446cdc5"
 metafile = true
 
 [[files]]
