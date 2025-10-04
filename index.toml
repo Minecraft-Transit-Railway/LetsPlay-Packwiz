@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "7c293b14a198d5fdbec6810a9e8e51124e98d584d32633d61596926d2be62f7c"
+hash = "767bb705ce7566f371f31a6e80de731175032427645532435e16228e8142b90d"
 metafile = true
 
 [[files]]
@@ -206,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/tianjin-metro.pw.toml"
-hash = "fdcb15b23617e3ca6c49566af1d64e1ed6307a40b46156b0eaf1fceea234e41b"
+hash = "9f9e080fd81ed9cf4f79af46a1e958c6a2484f8adaa7d94064b3dbf8d78f1a4a"
 metafile = true
 
 [[files]]
