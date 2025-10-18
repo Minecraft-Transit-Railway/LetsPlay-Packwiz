@@ -13,8 +13,8 @@ file = "mods/MTR-London-Underground-Addon-fabric-2.2.5+1.20.4.jar"
 hash = "7c20c1da94ff1ae198da860d8f4d415062fa4b20aa973608168191adeef9e91b"
 
 [[files]]
-file = "mods/MTR-fabric-4.0.2+1.20.4.jar"
-hash = "b5a5c067864a640160c48f939ac5e72ea67e21cb2aeadd7d133791f930d2237b"
+file = "mods/MTR-fabric-4.0.2-hotfix-1+1.20.4.jar"
+hash = "35771c83df85a7f386e7beac3ec053ee3453a5044b32efaa164c77a60801a289"
 
 [[files]]
 file = "mods/Slideshow-1.0.3-no-texture-size-limit.jar"
