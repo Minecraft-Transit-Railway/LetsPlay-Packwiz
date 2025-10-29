@@ -51,11 +51,6 @@ hash = "931fa7587facbc9b334c7539722b2dacaac520f253ebfbc5b87665d5abbcea77"
 metafile = true
 
 [[files]]
-file = "mods/collective.pw.toml"
-hash = "a22e595eaf6de7a245a54cf5f94395896056c2630a2c2cccac16adc2fec45877"
-metafile = true
-
-[[files]]
 file = "mods/continuity.pw.toml"
 hash = "45f0a2c35bc9aa87baf55ccf912a3c151167192468abba647858d421c24354d3"
 metafile = true
@@ -207,11 +202,6 @@ metafile = true
 [[files]]
 file = "mods/tianjin-metro.pw.toml"
 hash = "9f9e080fd81ed9cf4f79af46a1e958c6a2484f8adaa7d94064b3dbf8d78f1a4a"
-metafile = true
-
-[[files]]
-file = "mods/tree-harvester.pw.toml"
-hash = "4427adf110cf4b328290bd6e7cad7b45fe6bf742e3efd32c13dee5a9e450d5e0"
 metafile = true
 
 [[files]]
