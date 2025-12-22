@@ -5,8 +5,8 @@ file = "config/custom-hud/profile1.txt"
 hash = "10d7691ad85825af13bb637bb96ea7235e4e4886dbc48b490d6d34c7b9476265"
 
 [[files]]
-file = "mods/JCM-fabric-2.0.2+1.20.4.jar"
-hash = "01914fcf7cacd35aef626cc37599ae9d9d3440378133ce25c0e31d70dad6dde1"
+file = "mods/JCM-fabric-2.1.0+1.20.4.jar"
+hash = "9cedf24c89c01b8d103ebeaa25b106b39ceed595497b327b2cf5f0161677dc55"
 
 [[files]]
 file = "mods/MTR-London-Underground-Addon-fabric-2.2.5+1.20.4.jar"
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "767bb705ce7566f371f31a6e80de731175032427645532435e16228e8142b90d"
+hash = "b499c0f69d4078ebfaa7755db796e3667e536cce8bff0e7290bc4071e6f14905"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/customhud.pw.toml"
-hash = "71a947cf29799caf1adf79e4abc26e8b22085b38053180172afbb05fd743d385"
+hash = "9ad5b4dc074771f997346fc7f85165862150e3a10c465a5a64ad630bfe386218"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "098d6976a738658ca490cc58e9fab19f06cd1a7b23199b6f1ee108d866333e22"
+hash = "61afd7af5c645ffd966b2bd86be944eacd1e48a8044e8f67082225d4d9989f0c"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "060c6baaec85f47ba4bc2c0f4b8642b9933c27d3c166eb00ef86b4bbfd7f34a3"
+hash = "d9d01681616a8bdb45bbdd0a053b87153bbb77a5ef997325be0b3dc10b7f8979"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "aef267b1c5d346743f8634d446df201557919d701c7dbb922b664fc36197c91a"
+hash = "104c4342e55bbeb5c4714dd7fe960490c6e09fff80cd5cf7dea14689bc75007c"
 metafile = true
 
 [[files]]
@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/station-decoration.pw.toml"
-hash = "239e69ddcb3a1fdd36cac6526df09b3114e0ad7700208a0f8a56b06dc446cdc5"
+hash = "d0aa439438069d14311f23a19678e28fc8763b0e8aa9f6fc5b3cdc68556d6f0d"
 metafile = true
 
 [[files]]
@@ -206,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/tianjin-metro.pw.toml"
-hash = "9f9e080fd81ed9cf4f79af46a1e958c6a2484f8adaa7d94064b3dbf8d78f1a4a"
+hash = "01766147ff9b9877712d1a5ac3c8245282c41d3cc510567d3a57a525360c75a1"
 metafile = true
 
 [[files]]
@@ -241,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "f327d51d9c2988a691892b1f8fb66efc2e21d2084e9c0cedbc2f26d93abadc66"
+hash = "6d5f8b20e43d731d0df2f6d94c861e478d28062e863ca18ef8812894b308d070"
 metafile = true
 
 [[files]]
