@@ -5,8 +5,8 @@ file = "config/custom-hud/profile1.txt"
 hash = "10d7691ad85825af13bb637bb96ea7235e4e4886dbc48b490d6d34c7b9476265"
 
 [[files]]
-file = "mods/JCM-fabric-2.1.0+1.20.4.jar"
-hash = "9cedf24c89c01b8d103ebeaa25b106b39ceed595497b327b2cf5f0161677dc55"
+file = "mods/JCM-fabric-2.1.1+1.20.4.jar"
+hash = "391278881f4f9898e193dadfa10371d45b5cf74851de08b40f33090415ef0b34"
 
 [[files]]
 file = "mods/MTR-London-Underground-Addon-fabric-2.2.5+1.20.4.jar"
