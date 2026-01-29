@@ -13,8 +13,8 @@ file = "mods/MTR-London-Underground-Addon-fabric-2.2.5+1.20.4.jar"
 hash = "7c20c1da94ff1ae198da860d8f4d415062fa4b20aa973608168191adeef9e91b"
 
 [[files]]
-file = "mods/MTR-fabric-4.0.2-hotfix-1+1.20.4.jar"
-hash = "35771c83df85a7f386e7beac3ec053ee3453a5044b32efaa164c77a60801a289"
+file = "mods/MTR-fabric-4.0.3+1.20.4.jar"
+hash = "2e0b0865b54be64ff6a0d7e8b5f889863005837828069d79b1356c3c0c8a7bcf"
 
 [[files]]
 file = "mods/Slideshow-1.0.3-no-texture-size-limit.jar"
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "d9d01681616a8bdb45bbdd0a053b87153bbb77a5ef997325be0b3dc10b7f8979"
+hash = "d00804e18277945dda73f59796c1932862ceb96aac073a92b7a66ef92b4cf3bd"
 metafile = true
 
 [[files]]
@@ -226,12 +226,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "c658bdc0ecb6b7c47cdf44e1d06af9077d0abc75e62cb89303ac72c99408c08c"
+hash = "9c2cd86a3a2abd16534d2afcf2cfd2ed4df50d74e4c710df5300743f2e162818"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "07f5f332fa5883f1d4caf9c5a88439590e24ae60f9b8b4cb9f25da3bcf5d2795"
+hash = "4bd41135dc4b2761615c92106511ec7a3b504a4bc06ef6cdbe9935bbb6863b25"
 metafile = true
 
 [[files]]
@@ -241,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "6d5f8b20e43d731d0df2f6d94c861e478d28062e863ca18ef8812894b308d070"
+hash = "cd1aca8f9bf774686f4af85481b1c8b654fe0e10d33acc92c431eb5eb87d3d7e"
 metafile = true
 
 [[files]]
