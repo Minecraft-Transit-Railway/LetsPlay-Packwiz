@@ -1,16 +1,16 @@
 name = "Zoomify"
-filename = "zoomify-2.15.1+1.20.4.jar"
+filename = "zoomify-2.15.2+1.20.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/PN7Yoipn/zoomify-2.15.1%2B1.20.4.jar"
+url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/eM4pcNnS/zoomify-2.15.2%2B1.20.4.jar"
 hash-format = "sha512"
-hash = "83662e108dc310c2d746d95dfa9f8782134195e5b13519d30db93f93cbb2fcae921241c170e233e1425b0c4e699a3a821427390a473bf59432ec86a7a7d02481"
+hash = "4feb60f2e1065330b2c11a47864f84465bbf56112647cb96108cc8b701ab24cbb5280cf414704557675cebb9f821f81ab363f580a171e53f994b65f38f28bb74"
 
 [update]
 [update.modrinth]
 mod-id = "w7ThoJFB"
-version = "PN7Yoipn"
+version = "eM4pcNnS"
 
 [option]
 optional = true

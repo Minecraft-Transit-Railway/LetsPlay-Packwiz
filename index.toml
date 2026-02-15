@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "b499c0f69d4078ebfaa7755db796e3667e536cce8bff0e7290bc4071e6f14905"
+hash = "6e2063477775efb5d67ee4c0a2fd8d69338bf96c11063c888f82a5578b7df799"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "61afd7af5c645ffd966b2bd86be944eacd1e48a8044e8f67082225d4d9989f0c"
+hash = "408151861cc1b1a4c4e9c8a3550662a2fc36d0ea96ee07b7e96c5d2a6afacf6f"
 metafile = true
 
 [[files]]
@@ -108,6 +108,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "96cafb1b451ce577f0a74045704c2f51c3ab34d63fbba81df669c21646d33bff"
+metafile = true
+
+[[files]]
+file = "mods/jcm.pw.toml"
+hash = "65552ac1ca86fb0daf8130178459df832d7748127adc0502d0c655a05a783389"
 metafile = true
 
 [[files]]
@@ -206,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/tianjin-metro.pw.toml"
-hash = "01766147ff9b9877712d1a5ac3c8245282c41d3cc510567d3a57a525360c75a1"
+hash = "f89d4a82d1da74b427110b25665e057bd2e2308a668a75ce35953bb32ba103be"
 metafile = true
 
 [[files]]
@@ -226,12 +231,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "9c2cd86a3a2abd16534d2afcf2cfd2ed4df50d74e4c710df5300743f2e162818"
+hash = "df23d29fad11425718ff74ca4dd4d86a161b456b665c867b7442c6534bd35a8b"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "4bd41135dc4b2761615c92106511ec7a3b504a4bc06ef6cdbe9935bbb6863b25"
+hash = "62f5e5c30b58c0cca80074cfc658237a31413d495cba9aa958ae3f85cd335f87"
 metafile = true
 
 [[files]]
@@ -241,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "cd1aca8f9bf774686f4af85481b1c8b654fe0e10d33acc92c431eb5eb87d3d7e"
+hash = "3c5db3ffd16af0470ba90dd0598eb87c41c5a25f3a424f881ca5e44a67167f91"
 metafile = true
 
 [[files]]
