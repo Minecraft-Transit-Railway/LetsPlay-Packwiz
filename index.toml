@@ -5,10 +5,6 @@ file = "config/custom-hud/profile1.txt"
 hash = "10d7691ad85825af13bb637bb96ea7235e4e4886dbc48b490d6d34c7b9476265"
 
 [[files]]
-file = "mods/JCM-fabric-2.2.0-beta.2+1.20.4.jar"
-hash = "a0c2b864369c0113daabd8c518886bc3de61b4110dd826a2ce960e2e7743e161"
-
-[[files]]
 file = "mods/MTR-London-Underground-Addon-fabric-2.2.5+1.20.4.jar"
 hash = "7c20c1da94ff1ae198da860d8f4d415062fa4b20aa973608168191adeef9e91b"
 
@@ -42,7 +38,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "6e2063477775efb5d67ee4c0a2fd8d69338bf96c11063c888f82a5578b7df799"
+hash = "3fdfce41e8aee0ed7ea0b9f12763a6f1d1a0f888fcbcd749b3c78baf9b63e1d8"
 metafile = true
 
 [[files]]
@@ -77,7 +73,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "408151861cc1b1a4c4e9c8a3550662a2fc36d0ea96ee07b7e96c5d2a6afacf6f"
+hash = "337d97b990f76c91584b12600651ae7bd47a0824e45070b3d9330b0922149fc0"
 metafile = true
 
 [[files]]
@@ -108,6 +104,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "96cafb1b451ce577f0a74045704c2f51c3ab34d63fbba81df669c21646d33bff"
+metafile = true
+
+[[files]]
+file = "mods/jcm.pw.toml"
+hash = "3e03836593b028b8b258d6cc0d9c66770fc27663b3a24c0e86e76caf83c808ea"
 metafile = true
 
 [[files]]
@@ -186,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/station-decoration.pw.toml"
-hash = "d0aa439438069d14311f23a19678e28fc8763b0e8aa9f6fc5b3cdc68556d6f0d"
+hash = "2bc809fd42018142f09852bc91f30d65f1f6724cb972f8269c0aba386adb8ce9"
 metafile = true
 
 [[files]]
@@ -226,12 +227,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "df23d29fad11425718ff74ca4dd4d86a161b456b665c867b7442c6534bd35a8b"
+hash = "916758f0c3a6a64948cf8b0ddcd79acfb6d47fda9a35a93297bf4e317a63f17e"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "62f5e5c30b58c0cca80074cfc658237a31413d495cba9aa958ae3f85cd335f87"
+hash = "78d2a8beb384daddc34c44e1f68fce2483b96ee41d6dfb32a4dddc4c16ee1133"
 metafile = true
 
 [[files]]
