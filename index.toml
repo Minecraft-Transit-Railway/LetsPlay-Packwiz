@@ -108,7 +108,7 @@ metafile = true
 
 [[files]]
 file = "mods/jcm.pw.toml"
-hash = "536d8943fc7826d9dd729c8371b9bc2fed85a2ab7f7b535afe48d9f65c7f886a"
+hash = "20812bc4dee7749ac692ff3bdb10e496713234780b3e153ec7dfe67f5dd32db3"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/station-decoration.pw.toml"
-hash = "2bc809fd42018142f09852bc91f30d65f1f6724cb972f8269c0aba386adb8ce9"
+hash = "0289bc59442c7dee0f50b441b651101cc3f424dde8136c6e956e52b147470fc6"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "ecb165fe22046d49bb752c7a32c78ee1253ef42b4559466efc78e32dd2e67810"
+hash = "6734fef4533731a39b43fb53090013cc8a70669e1739fad58af4379266f91264"
 metafile = true
 
 [[files]]
