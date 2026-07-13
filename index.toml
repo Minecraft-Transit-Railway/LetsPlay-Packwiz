@@ -10,7 +10,7 @@ hash = "7c20c1da94ff1ae198da860d8f4d415062fa4b20aa973608168191adeef9e91b"
 
 [[files]]
 file = "mods/MTR-fabric-4.0.5+1.20.4.jar"
-hash = "4a20940440f56aa15369645475bf2a644ce4559603c2c23709d7cedbf44e7962"
+hash = "ddc856c4366742897defbe9220d8f5b92e45304a0a894b846b1acd64f98a08c6"
 
 [[files]]
 file = "mods/Slideshow-1.0.3-no-texture-size-limit.jar"
@@ -78,7 +78,7 @@ metafile = true
 
 [[files]]
 file = "mods/filters-api.pw.toml"
-hash = "b9480e9b507930881bda195d5ddebe107084261e5afcd1ab61cc107bef116c61"
+hash = "145fff74d44a389629dbba6e67207dcf84696fdfe6698fc150b03717f48fdd7d"
 metafile = true
 
 [[files]]
@@ -88,7 +88,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "d00804e18277945dda73f59796c1932862ceb96aac073a92b7a66ef92b4cf3bd"
+hash = "51b79a1eacb4f15f1626c802137c95b0a4316fefb540e6ec31cf81118b91c20b"
 metafile = true
 
 [[files]]
@@ -227,12 +227,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "2d720f26aa2eb18f8a4c776e01c14d149e2e3a0eabcb0dc34c58a096fe8de6f1"
+hash = "ae0815c85636e87166b9dd5207b47190698a452c51e475296875ea9ebc1b1795"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "6734fef4533731a39b43fb53090013cc8a70669e1739fad58af4379266f91264"
+hash = "81781b4ab02ab173d343898bd75c85366a5dfd78c4a7e005feb2f8ccda994512"
 metafile = true
 
 [[files]]
