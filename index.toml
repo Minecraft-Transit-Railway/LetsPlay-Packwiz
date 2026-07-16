@@ -10,7 +10,7 @@ hash = "7c20c1da94ff1ae198da860d8f4d415062fa4b20aa973608168191adeef9e91b"
 
 [[files]]
 file = "mods/MTR-fabric-4.0.5+1.20.4.jar"
-hash = "ddc856c4366742897defbe9220d8f5b92e45304a0a894b846b1acd64f98a08c6"
+hash = "0a01fac781e43c60a994caf1bba061cff472ca474d2aa5572d4813e203cd32f5"
 
 [[files]]
 file = "mods/Slideshow-1.0.3-no-texture-size-limit.jar"
@@ -73,7 +73,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "9d37d326d9557fdd25c97d72ac1bbd1e74c524aa5dca437a91d0de645dff6545"
+hash = "2a760e528bf27c3eb4ae7c06200d91ee9c2849295addaa2add05495c7dee9528"
 metafile = true
 
 [[files]]
