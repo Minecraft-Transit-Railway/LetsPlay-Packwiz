@@ -1,8 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/deploy.yml"
+hash = "9ede787cc64f8492fcd23f8100cc766094e49dd7171f26578d372f1da63e7aee"
+
+[[files]]
 file = "config/custom-hud/profile1.txt"
 hash = "10d7691ad85825af13bb637bb96ea7235e4e4886dbc48b490d6d34c7b9476265"
+
+[[files]]
+file = "config/resourcepackupdater.json"
+hash = "8189e59cb2c65387329bd8c799aa8308e7be3cd677afea5542b867de798786d9"
+
+[[files]]
+file = "mods/MRPU-1.20.4-3.1.0.jar"
+hash = "257208a0c4e09fba0d60c43255312d59c99b50931bbc778f5f289e7a074325a0"
 
 [[files]]
 file = "mods/MTR-London-Underground-Addon-fabric-2.2.5+1.20.4.jar"
@@ -155,10 +167,6 @@ metafile = true
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "181bfe0cfc3bd30e07dc328dac9fed42705ef5cd1977ee86e48942e8d0e47ee1"
 metafile = true
-
-[[files]]
-file = "mods/resourcepackupdater-1.20.4-2.3.1.jar"
-hash = "e066f3c89f98f929210126dd2c1ea873ec3d44a7bbbb2ad6aecdd1f4940fdb7a"
 
 [[files]]
 file = "mods/russian-metro-addon.pw.toml"
