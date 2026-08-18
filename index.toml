@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/deploy.yml"
-hash = "9ede787cc64f8492fcd23f8100cc766094e49dd7171f26578d372f1da63e7aee"
-
-[[files]]
 file = "config/custom-hud/profile1.txt"
 hash = "10d7691ad85825af13bb637bb96ea7235e4e4886dbc48b490d6d34c7b9476265"
 
