@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/jcm.pw.toml"
-hash = "20812bc4dee7749ac692ff3bdb10e496713234780b3e153ec7dfe67f5dd32db3"
+hash = "392b1d64a593408a7929d81c2b2b1dcee0c32691e1451dafbe85335f441d93f1"
 metafile = true
 
 [[files]]
